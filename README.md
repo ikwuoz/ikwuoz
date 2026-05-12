@@ -13,28 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Emmanuel Ikwuoma</h1>
-<h3 align="center">A passionate fullstack web developer and web3 engineer.</h3>
+<h3 align="center">An OSS Engineer, interested in Distributed Systems, Web3 and AI</h3>   
 
-- 🌱 I’m currently learning about **decentralized systems, blockchain development, and sometimes devops.**
+<h4>How to reach me</h4>  
+  
+> 📫  *emmanuelikwuoma7@gmail.com*  
+> 𝕏   [@nuel_ikwuoma](https://x.com/nuel_ikwuoma) 
 
-- 📝 I regularly write articles on [https://dev.to/nuel_ikwuoma](https://dev.to/nuel_ikwuoma)
+<h4>Published Articles</h4>  
 
-- 💬 Ask me about **react, nodejs, solidity and general blockchain stuffs.**
+- [Javascript concepts for writing better ReactJS](https://dev.to/nuel_ikwuoma/javascript-concepts-to-write-better-react-code-45f0)
 
-- 📫 How to reach me **emmanuelikwuoma7@gmail.com**
+- [A pragmatic approach to higher-order functions](https://dev.to/nuel_ikwuoma/higher-order-functions-a-pragmatic-approach-51fb)
 
-- ⚡ Fun fact **I am not boring.**
+- [Deploying upgradeable contracts with ERC2535 Diamond Standard](https://celo.academy/t/a-guide-to-building-and-deploying-upgradeable-contracts-on-celo-with-diamond-standard/152/)
 
-### Published Articles:
+- [A simple implementation for the Multichain native token standard](https://github.com/polytope-labs/multichain-native-tokens)
 
-[Javascript concepts for writing better ReactJS](https://dev.to/nuel_ikwuoma/javascript-concepts-to-write-better-react-code-45f0)
+- [Cheap contract deployment at scale with clones proxy](https://celo.academy/t/using-clones-to-build-and-cheaply-deploy-contracts-on-celo-at-scale/153/)
 
-[A pragmatic approach to higher-order functions](https://dev.to/nuel_ikwuoma/higher-order-functions-a-pragmatic-approach-51fb)
-
-[Deploying upgradeable contracts with ERC2535 Diamond Standard](https://celo.academy/t/a-guide-to-building-and-deploying-upgradeable-contracts-on-celo-with-diamond-standard/152/)
-
-[A simple implementation for the Multichain native token standard](https://github.com/polytope-labs/multichain-native-tokens)
-
-[Cheap contract deployment at scale with clones proxy](https://celo.academy/t/using-clones-to-build-and-cheaply-deploy-contracts-on-celo-at-scale/153/)
-
-[Extending ERC2535 contracts to add support for rollback deployments](https://dev.to/nuel_ikwuoma/a-guide-to-extending-erc2535-diamonds-37a4)
+- [Extending ERC2535 contracts to add support for rollback deployments](https://dev.to/nuel_ikwuoma/a-guide-to-extending-erc2535-diamonds-37a4)
